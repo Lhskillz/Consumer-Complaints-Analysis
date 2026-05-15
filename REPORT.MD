@@ -143,6 +143,7 @@ The Power BI dashboard contains two interactive pages.
 
 
 **2. Dashboard/Page 2: Company Performance**
+---
 
 ### Data Analysis
 
