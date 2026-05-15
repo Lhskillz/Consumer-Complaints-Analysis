@@ -161,6 +161,28 @@ The analysis focused on the following metrics and KPIs:
 ---
 ### Key Insights
 
+**-i. Complaint Volume** 
+A total of 62.52K customer complaints were recorded in the dataset. 
+**-ii. Most Affected Product** 
+The Checking or Savings Account category recorded the highest number of complaints, with 
+approximately 24.81K complaints, followed by Credit Card or Prepaid Card complaints. 
+**-iii. Timely Response Performance** 
+Companies maintained a strong customer service performance with a 93.77% timely response rate, 
+showing that most complaints were resolved within the expected timeframe. 
+**-iv. Complaint Trends** 
+Customer complaints increased steadily from 2017 and reached their peak around 2022 before 
+declining slightly in 2023. 
+**-v. Common Customer Issues** 
+The most reported issue by customers was managing an Account, followed by Incorrect Information 
+on Reports and Problems with Purchases. 
+**-vi. Complaint Submission Channels** 
+Most complaints were submitted through the web channel, indicating that customers prefer digital 
+communication channels over phone calls or emails. 
+**-vii. Geographic Distribution** 
+California recorded the highest number of complaints, followed by Florida, Texas, and New York. 
+**-viii. Company Response Types** 
+Most complaints were resolved through explanations provided by companies, while fewer 
+complaints resulted in monetary or non-monetary relief.
 
 ---
 ## Recommendations
