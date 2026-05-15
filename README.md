@@ -211,8 +211,11 @@ complaints resulted in monetary or non-monetary relief.
 **-Stakeholder**: Product Managers, Customer Service Team, UX/UI Team 
 
 **4. Complaints Increased Significantly Between 2017 and 2022**
-**-Insight**: Customer complaints increased steadily from 2017 and peaked around 2022 before declining slightly in 2023. 
+
+**-Insight**: Customer complaints increased steadily from 2017 and peaked around 2022 before declining slightly in 2023.
+
 **-Recommendation**: Perform trend analysis to identify factors that contributed to the increase in complaints and implement preventive measures to reduce future complaint growth.
+
 **-Stakeholder**: Executive Leadership, Operations Team, Data & Analytics Team 
 
 **5. Strong Timely Response Performance**
