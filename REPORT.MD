@@ -136,12 +136,6 @@ The Power BI dashboard contains two interactive pages.
 
 
 
-
-
-
-
-
-
 **2. Dashboard/Page 2: Company Performance**
 ---
 
@@ -160,30 +154,6 @@ The analysis focused on the following metrics and KPIs:
 ---
 ### Key Insights
 
-**Complaint Volume**
--	A total of 62.52K customer complaints were recorded.
-
-**Most Affected Product**
--	Checking or Savings Account recorded the highest complaints with approximately 24.81K complaints.
-
-**Timely Response Performance**
--	Companies achieved a 93.77% timely response rate.
-
-**Complaint Trends**
--	Complaints increased steadily from 2017 and peaked around 2022 before declining slightly in 2023.
-
-**Common Customer Issues**
--	Managing an Account was the most reported issue.
-
-
-**Complaint Submission Channels**
--	Most complaints were submitted through the Web channel.
-
-**Geographic Distribution**
--	California recorded the highest number of complaints.
-
-**Company Response Types**
--	Most complaints were resolved through company explanations rather than monetary relief.
 
 ---
 ## Recommendations
