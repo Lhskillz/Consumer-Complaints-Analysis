@@ -132,7 +132,11 @@ Several cleaning and transformation processes were performed to prepare the data
 ## Data Visualization
 
 The Power BI dashboard contains two interactive pages.
-**1. Dashboard/Page 1: Customer Complaints Analytics
+
+**1. Dashboard/Page 1: Customer Complaints Analytics**
+
+<img width="1328" height="747" alt="image" src="https://github.com/user-attachments/assets/3c761f40-bfdc-411b-8d71-f3909cfa110c" />
+
 
 
 
