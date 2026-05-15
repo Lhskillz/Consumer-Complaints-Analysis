@@ -148,6 +148,7 @@ The Power BI dashboard contains two interactive pages.
 
 
 
+
 **2. Dashboard/Page 2: Company Performance**
 
 <img width="1327" height="745" alt="image" src="https://github.com/user-attachments/assets/1e0ae380-e9fe-4068-aa42-d8018c672143" />
