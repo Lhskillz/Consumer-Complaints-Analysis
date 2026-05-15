@@ -1,9 +1,9 @@
-# Consumer-Complaints-Analysis
+# Customer-Complaints-Analysis
 
 A data analysis project focused on exploring consumer complaint trends, customer issues, response performance, and complaint channels using Excel, PowerPoint, and Power BI to generate actionable business insights.
 
 ---
-# Consumer Complaints Analysis
+# Customer Complaints Analysis
 ---
 ## Table of Contents
 ---
@@ -132,6 +132,7 @@ Several cleaning and transformation processes were performed to prepare the data
 ## Data Visualization
 
 The Power BI dashboard contains two interactive pages.
+**1. Dashboard/Page 1: Customer Complaints Analytics
 
 
 
