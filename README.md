@@ -161,52 +161,53 @@ The analysis focused on the following metrics and KPIs:
 ---
 ### Key Insights
 
-**-i. Complaint Volume** 
-A total of 62.52K customer complaints were recorded in the dataset. 
+**-i. Complaint Volume**: A total of 62.52K customer complaints were recorded in the dataset. 
 
-**-ii. Most Affected Product** 
-The Checking or Savings Account category recorded the highest number of complaints, with 
+**-ii. Most Affected Product**: The Checking or Savings Account category recorded the highest number of complaints, with 
 approximately 24.81K complaints, followed by Credit Card or Prepaid Card complaints. 
 
-**-iii. Timely Response Performance** 
-Companies maintained a strong customer service performance with a 93.77% timely response rate, 
+**-iii. Timely Response Performance**: Companies maintained a strong customer service performance with a 93.77% timely response rate, 
 showing that most complaints were resolved within the expected timeframe. 
 
-**-iv. Complaint Trends** 
-Customer complaints increased steadily from 2017 and reached their peak around 2022 before 
+**-iv. Complaint Trends**: Customer complaints increased steadily from 2017 and reached their peak around 2022 before 
 declining slightly in 2023. 
 
-**-v. Common Customer Issues** 
-The most reported issue by customers was managing an Account, followed by Incorrect Information 
+**-v. Common Customer Issues**: The most reported issue by customers was managing an Account, followed by Incorrect Information 
 on Reports and Problems with Purchases.
 
-**-vi. Complaint Submission Channels** 
-Most complaints were submitted through the web channel, indicating that customers prefer digital 
+**-vi. Complaint Submission Channels**: Most complaints were submitted through the web channel, indicating that customers prefer digital 
 communication channels over phone calls or emails. 
 
-**-vii. Geographic Distribution** 
-California recorded the highest number of complaints, followed by Florida, Texas, and New York.
+**-vii. Geographic Distribution**: California recorded the highest number of complaints, followed by Florida, Texas, and New York.
 
-**-viii. Company Response Types** 
-Most complaints were resolved through explanations provided by companies, while fewer 
+**-viii. Company Response Types**: Most complaints were resolved through explanations provided by companies, while fewer 
 complaints resulted in monetary or non-monetary relief.
 
 ---
 ## Recommendations
 ---
 **1. High Complaint Volume in Checking or Savings Accounts**
+
 **-Insight**: The Checking or Savings Account category recorded the highest number of customer complaints, with approximately 24.81K complaints. 
+
 **-Recommendation**: Conduct a detailed review of customer pain points related to checking and savings accounts, improve account management processes, and strengthen customer support for these products.
+
 **-Stakeholder**: Product Managers, Customer Service Team, Operations Team 
 
 **2. High Usage of Web Complaint Channel**
+
 **-Insight**: Most customer complaints were submitted through the web channel, showing that customers prefer digital communication platforms. 
+
 **-Recommendation**: Improve the web support experience by optimizing response speed, simplifying complaint submission processes, and integrating chatbot or live support features for faster issue resolution.
+
 **-Stakeholder**: Digital Support Team, Customer Experience Team, IT Department 
 
 **3. Managing an Account Was the Most Common Issue**
+
 **-Insight**: The most frequently reported complaint issue was related to managing customer accounts. 
+
 **-Recommendation**: Investigate the root causes of account management complaints, improve user experience across banking platforms, and provide clearer customer guidance and self-service resources.
+
 **-Stakeholder**: Product Managers, Customer Service Team, UX/UI Team 
 
 **4. Complaints Increased Significantly Between 2017 and 2022**
@@ -215,22 +216,35 @@ complaints resulted in monetary or non-monetary relief.
 **-Stakeholder**: Executive Leadership, Operations Team, Data & Analytics Team 
 
 **5. Strong Timely Response Performance**
+
 **-Insight**: Companies maintained a strong, timely response rate of 93.77%, indicating good customer service performance. 
+
 **-Recommendation**: Maintain current response standards while identifying opportunities to further improve resolution quality and customer satisfaction.
+
 **-Stakeholder**: Customer Service Team, Operations Team 
 
 **6. California Recorded the Highest Number of Complaints**
+
 **-Insight**: California had the highest number of consumer complaints, followed by Florida, Texas, and New York. 
+
 **-Recommendation**: Allocate additional customer support resources and conduct regional investigations to understand the causes of high complaint volumes in these states.
+
 **-Stakeholder**: Regional Operations Managers, Customer Experience Team, Executive Leadership 
 
 **7. Most Complaints Were Resolved Through Explanations Rather Than Relief**
+
 **-Insight**: Most company responses involved providing explanations to customers, while fewer complaints resulted in monetary or non-monetary relief. 
+
 **-Recommendation**: Evaluate whether explanation-based resolutions are effectively satisfying customers and consider alternative resolution strategies where necessary.
+
 **-Stakeholder**: Compliance & Risk Department, Customer Service Team, Executive Leadership 
+
 **8. Operational Bottlenecks Affect Complaint Handling**
+
 **-Insight**: The analysis identified the need to improve workflow efficiency and complaint handling processes to reduce delays and unresolved issues. 
+
 **-Recommendation**: Streamline complaint management workflows, improve cross-department collaboration, and introduce automation tools to speed up complaint resolution.
+
 **-Stakeholder**: Operations Team, IT Department, Executive Leadership 
 
 ---
