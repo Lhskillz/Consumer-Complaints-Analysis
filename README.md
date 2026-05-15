@@ -193,16 +193,45 @@ complaints resulted in monetary or non-monetary relief.
 
 ---
 ## Recommendations
+---
+**1. High Complaint Volume in Checking or Savings Accounts**
+**-Insight**: The Checking or Savings Account category recorded the highest number of customer complaints, with approximately 24.81K complaints. 
+**-Recommendation**: Conduct a detailed review of customer pain points related to checking and savings accounts, improve account management processes, and strengthen customer support for these products.
+**-Stakeholder**: Product Managers, Customer Service Team, Operations Team 
 
-Based on the analysis, the following recommendations were provided:
+**2. High Usage of Web Complaint Channel**
+**-Insight**: Most customer complaints were submitted through the web channel, showing that customers prefer digital communication platforms. 
+**-Recommendation**: Improve the web support experience by optimizing response speed, simplifying complaint submission processes, and integrating chatbot or live support features for faster issue resolution.
+**-Stakeholder**: Digital Support Team, Customer Experience Team, IT Department 
 
--	Improve customer support processes for checking and savings account complaints.
--	Strengthen digital customer support channels since most complaints originate from the web.
--	Investigate recurring account management issues to identify root causes.
--	Enhance response efficiency in states with high complaint volumes.
--	Improve operational workflows to reduce untimely responses.
--	Develop proactive customer education programs to reduce common complaint categories.
--	Increase monitoring of high-risk complaint categories for compliance purposes.
+**3. Managing an Account Was the Most Common Issue**
+**-Insight**: The most frequently reported complaint issue was related to managing customer accounts. 
+**-Recommendation**: Investigate the root causes of account management complaints, improve user experience across banking platforms, and provide clearer customer guidance and self-service resources.
+**-Stakeholder**: Product Managers, Customer Service Team, UX/UI Team 
+
+**4. Complaints Increased Significantly Between 2017 and 2022**
+**-Insight**: Customer complaints increased steadily from 2017 and peaked around 2022 before declining slightly in 2023. 
+**-Recommendation**: Perform trend analysis to identify factors that contributed to the increase in complaints and implement preventive measures to reduce future complaint growth.
+**-Stakeholder**: Executive Leadership, Operations Team, Data & Analytics Team 
+
+**5. Strong Timely Response Performance**
+**-Insight**: Companies maintained a strong, timely response rate of 93.77%, indicating good customer service performance. 
+**-Recommendation**: Maintain current response standards while identifying opportunities to further improve resolution quality and customer satisfaction.
+**-Stakeholder**: Customer Service Team, Operations Team 
+
+**6. California Recorded the Highest Number of Complaints**
+**-Insight**: California had the highest number of consumer complaints, followed by Florida, Texas, and New York. 
+**-Recommendation**: Allocate additional customer support resources and conduct regional investigations to understand the causes of high complaint volumes in these states.
+**-Stakeholder**: Regional Operations Managers, Customer Experience Team, Executive Leadership 
+
+**7. Most Complaints Were Resolved Through Explanations Rather Than Relief**
+**-Insight**: Most company responses involved providing explanations to customers, while fewer complaints resulted in monetary or non-monetary relief. 
+**-Recommendation**: Evaluate whether explanation-based resolutions are effectively satisfying customers and consider alternative resolution strategies where necessary.
+**-Stakeholder**: Compliance & Risk Department, Customer Service Team, Executive Leadership 
+**8. Operational Bottlenecks Affect Complaint Handling**
+**-Insight**: The analysis identified the need to improve workflow efficiency and complaint handling processes to reduce delays and unresolved issues. 
+**-Recommendation**: Streamline complaint management workflows, improve cross-department collaboration, and introduce automation tools to speed up complaint resolution.
+**-Stakeholder**: Operations Team, IT Department, Executive Leadership 
 
 ---
 ## Conclusion
