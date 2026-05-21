@@ -142,8 +142,6 @@ The dataset was reorganized and formatted for better usability and analysis.
 - Improved dataset readability
 - Standardized naming conventions
 - Retained all relevant columns
-### 🧹 Data Cleaning And Transformation
-Several cleaning and transformation processes were performed to prepare the dataset for analysis.
 
 ---
 ## 📈 Data Visualization
