@@ -198,8 +198,14 @@ The analysis focused on the following metrics and KPIs:
 <img width="248" height="146" alt="dashbod total complaints" src="https://github.com/user-attachments/assets/827bb711-e21d-4561-90ac-1049f4636c21" />
 
 
+
+
 **🔹 Most Affected Product**: The Checking or Savings Account category recorded the highest number of complaints, with 
 approximately 24.81K complaints, followed by Credit Card or Prepaid Card complaints. 
+
+<img width="248" height="148" alt="dashbod 1 product affected" src="https://github.com/user-attachments/assets/16d3f92e-ca21-4167-9836-cb3e752cdf95" />
+
+
 
 
 **🔹 Timely Response Performance**: Companies maintained a strong customer service performance with a 93.77% timely response rate, 
@@ -208,16 +214,22 @@ showing that most complaints were resolved within the expected timeframe.
 <img width="254" height="164" alt="dashbod timely response rate" src="https://github.com/user-attachments/assets/c4f15b13-f6c3-495d-9c98-9d7f7d30be31" />
 
 
+
+
 **🔹 Complaint Trends**: Customer complaints increased steadily from 2017 and reached their peak around 2022 before 
 declining slightly in 2023. 
 
 <img width="795" height="233" alt="dashbod trend over time" src="https://github.com/user-attachments/assets/e9d9c690-7e3d-4c15-8d53-d596efe2d85b" />
 
 
+
+
 **🔹 Common Customer Issues**: The most reported issue by customers was managing an Account, followed by Incorrect Information 
 on Reports and Problems with Purchases.
 
 <img width="266" height="665" alt="dashbod most common issues" src="https://github.com/user-attachments/assets/8cc03218-c4e7-4e60-b5de-4e9302a35954" />
+
+
 
 
 **🔹 Complaints Submission Channels**: Most complaints were submitted through the web channel, indicating that customers prefer digital 
@@ -234,10 +246,14 @@ communication channels over phone calls or emails.
 <img width="331" height="668" alt="Company Performance ( compl by state)" src="https://github.com/user-attachments/assets/4d604a90-aeba-4abf-85f7-10ceffdeba5b" />
 
 
+
+
 **🔹 Company Response Types**: Most complaints were resolved through explanations provided by companies, while fewer 
 complaints resulted in monetary or non-monetary relief.
 
 <img width="739" height="202" alt="Company Performance (company response to customer types)" src="https://github.com/user-attachments/assets/517ada89-9c85-4c2c-bdf4-7f5a77269d95" />
+
+
 
 
 ---
