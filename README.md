@@ -194,6 +194,7 @@ The analysis focused on the following metrics and KPIs:
 ---
 
 **🔹 Complaint Volume**: A total of 62.52K customer complaints were recorded in the dataset.
+
 <img width="248" height="146" alt="dashbod total complaints" src="https://github.com/user-attachments/assets/827bb711-e21d-4561-90ac-1049f4636c21" />
 
 
