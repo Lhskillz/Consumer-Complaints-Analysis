@@ -56,18 +56,18 @@ The project also seeks to improve customer experience by identifying recurring i
 ---
 ### 🗂️ About the Dataset
 
-**Dataset Source**
+**🔹 Dataset Source**
 -	Consumer complaints dataset (Finance Industry dataset)
 
-**Dataset Size**
+**🔹 Dataset Size**
 -	Number of rows: 62,516
 -	Number of columns: 12
 
-**Dataset Description**
+**🔹 Dataset Dataset Overview**
 
 The dataset contains consumer complaints related to financial products and services. Each record represents an individual customer complaint.
 
-**Key Fields/Columns**
+**🔹 Dataset Key Fields / Variables**
 -	Product
 -	Sub-product
 -	Issue
@@ -75,7 +75,7 @@ The dataset contains consumer complaints related to financial products and servi
 -	Submission Date
 -	Date Received
 
-**Business Questions Answered**
+**🔹 Dataset Business Questions Answered**
 
 -	What are the most common customer complaint issues?
 -	Which products receive the highest complaints?
