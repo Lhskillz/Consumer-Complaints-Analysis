@@ -168,7 +168,8 @@ The analysis focused on the following metrics and KPIs:
 ---
 ### 💡 Key Insights
 
-**-i. Complaint Volume**: A total of 62.52K customer complaints were recorded in the dataset. 
+**-i. Complaint Volume**: A total of 62.52K customer complaints were recorded in the dataset.
+**🔹 : Complaint Volume**  
 
 **-ii. Most Affected Product**: The Checking or Savings Account category recorded the highest number of complaints, with 
 approximately 24.81K complaints, followed by Credit Card or Prepaid Card complaints. 
