@@ -23,12 +23,13 @@ A data analysis project focused on exploring consumer complaint trends, customer
 ### 13. [📬 Contact Information](contact-information)
 
 ---
-## Introduction
+## 📌 Introduction
 Customer complaints are valuable indicators of customer satisfaction, service quality, and operational efficiency within an organization. In the finance industry, unresolved complaints can negatively affect customer trust, increase churn, and damage brand reputation.
 This project focuses on analyzing consumer complaint data to identify major complaint trends, common customer issues, company response performance, and areas requiring operational improvement. The analysis helps stakeholders make informed business decisions and improve customer experience.
 
 ---
-### Project Description
+### 📝 Project Description
+
 This project covers the complete data analysis workflow, including:
 -	Data collection
 -	Data cleaning and preparation
@@ -42,7 +43,7 @@ This project covers the complete data analysis workflow, including:
 The project was carried out using Microsoft Excel, Power BI, and PowerPoint to address key business questions related to customer complaints within the finance industry.
 
 ---
-### Project Aim
+### 🎯 Project Aim
 The aim of this project is to analyze consumer complaint data to:
 -	Identify complaint trends and patterns
 -	Understand customer behavior
@@ -53,9 +54,7 @@ The aim of this project is to analyze consumer complaint data to:
 The project also seeks to improve customer experience by identifying recurring issues and service inefficiencies.
 
 ---
-## Methodology
----
-### About the Dataset
+### 🗂️ About the Dataset
 
 **Dataset Source**
 -	Consumer complaints dataset (Finance Industry dataset)
@@ -85,7 +84,7 @@ The dataset contains consumer complaints related to financial products and servi
 -	How have complaints changed over time?
 -	How effective are companies in providing timely responses?
 ---
-### Tools Used
+### 🛠️ Tools Used
 
 **1. Microsoft Excel**: Data cleaning, Data inspection, Handling missing values, Data validation
 	
@@ -94,15 +93,15 @@ The dataset contains consumer complaints related to financial products and servi
 **3. Microsoft PowerPoint**: Dashboard wireframing
 
 ---
-## Methodology
+## ⚙️ Methodology
 ---
-### Importing The Dataset
+### 📥 Importing The Dataset
 
 The dataset was first imported into Microsoft Excel for cleaning and preparation. After cleaning and validating the data, the cleaned dataset was loaded into Microsoft Power BI for analysis, dashboard creation, and visualization.
 PowerPoint was later used to create dashboard wireframes before building the final dashboard in Power BI.
 
 ---
-### Data Cleaning And Transformation
+### 🧹 Data Cleaning And Transformation
 Several cleaning and transformation processes were performed to prepare the dataset for analysis.
 
 **Cleaning Steps Performed**
@@ -129,7 +128,7 @@ Several cleaning and transformation processes were performed to prepare the data
 -	Retained all relevant columns
 
 ---
-## Data Visualization
+## 📈 Data Visualization
 
 The Power BI dashboard contains two interactive pages.
 
@@ -154,8 +153,7 @@ The Power BI dashboard contains two interactive pages.
 <img width="1327" height="745" alt="image" src="https://github.com/user-attachments/assets/1e0ae380-e9fe-4068-aa42-d8018c672143" />
 
 ---
-
-### Data Analysis
+### 📊 Data Analysis
 
 The analysis focused on the following metrics and KPIs:
 -	Total customer complaints
@@ -168,7 +166,7 @@ The analysis focused on the following metrics and KPIs:
 -	Company response performance
 
 ---
-### Key Insights
+### 💡 Key Insights
 
 **-i. Complaint Volume**: A total of 62.52K customer complaints were recorded in the dataset. 
 
@@ -193,7 +191,7 @@ communication channels over phone calls or emails.
 complaints resulted in monetary or non-monetary relief.
 
 ---
-## Recommendations
+## ✅ Recommendations
 ---
 **1. High Complaint Volume in Checking or Savings Accounts**
 
@@ -260,13 +258,13 @@ complaints resulted in monetary or non-monetary relief.
 **-Stakeholder**: Operations Team, IT Department, Executive Leadership 
 
 ---
-## Conclusion
+## 📌 Conclusion
 
 This project successfully analyzed customer complaint data within the finance industry and provided meaningful insights into customer behavior, complaint patterns, and company response performance.
 The analysis highlighted key operational gaps, recurring customer issues, and service trends that can support better business decision-making. The interactive Power BI dashboard enables stakeholders to explore insights dynamically and make data-driven improvements to customer service and operational efficiency.
 
 ---
-### Contact Information
+### 📬 Contact Information
 
 **-LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lamidi-habeebullah/)
 
