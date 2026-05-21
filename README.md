@@ -201,8 +201,11 @@ The analysis focused on the following metrics and KPIs:
 **🔹 Most Affected Product**: The Checking or Savings Account category recorded the highest number of complaints, with 
 approximately 24.81K complaints, followed by Credit Card or Prepaid Card complaints. 
 
+
 **🔹 Timely Response Performance**: Companies maintained a strong customer service performance with a 93.77% timely response rate, 
 showing that most complaints were resolved within the expected timeframe. 
+<img width="254" height="164" alt="dashbod timely response rate" src="https://github.com/user-attachments/assets/c4f15b13-f6c3-495d-9c98-9d7f7d30be31" />
+
 
 **🔹 Complaint Trends**: Customer complaints increased steadily from 2017 and reached their peak around 2022 before 
 declining slightly in 2023. 
