@@ -211,7 +211,7 @@ showing that most complaints were resolved within the expected timeframe.
 **🔹 Complaint Trends**: Customer complaints increased steadily from 2017 and reached their peak around 2022 before 
 declining slightly in 2023. 
 
-<img width="1328" height="747" alt="dashbod trend complaints by product" src="https://github.com/user-attachments/assets/a2b5ceef-9049-48ff-b349-d14e1b8e725e" />
+<img width="795" height="233" alt="dashbod trend over time" src="https://github.com/user-attachments/assets/e9d9c690-7e3d-4c15-8d53-d596efe2d85b" />
 
 
 **🔹 Common Customer Issues**: The most reported issue by customers was managing an Account, followed by Incorrect Information 
@@ -220,15 +220,25 @@ on Reports and Problems with Purchases.
 <img width="266" height="665" alt="dashbod most common issues" src="https://github.com/user-attachments/assets/8cc03218-c4e7-4e60-b5de-4e9302a35954" />
 
 
-**🔹 Geographic Distribution**: Most complaints were submitted through the web channel, indicating that customers prefer digital 
+**🔹 Complaints Submission Channels**: Most complaints were submitted through the web channel, indicating that customers prefer digital 
 communication channels over phone calls or emails. 
+
+<img width="738" height="221" alt="Company Performance (complaints by subm channel)" src="https://github.com/user-attachments/assets/00163c4f-36db-47e9-b9b0-b09365d72bd8" />
+
+
 
 
 
 **🔹 Geographic Distribution**: California recorded the highest number of complaints, followed by Florida, Texas, and New York.
 
+<img width="331" height="668" alt="Company Performance ( compl by state)" src="https://github.com/user-attachments/assets/4d604a90-aeba-4abf-85f7-10ceffdeba5b" />
+
+
 **🔹 Company Response Types**: Most complaints were resolved through explanations provided by companies, while fewer 
 complaints resulted in monetary or non-monetary relief.
+
+<img width="739" height="202" alt="Company Performance (company response to customer types)" src="https://github.com/user-attachments/assets/517ada89-9c85-4c2c-bdf4-7f5a77269d95" />
+
 
 ---
 ## ✅ Recommendations
