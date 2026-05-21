@@ -87,11 +87,11 @@ The dataset contains consumer complaints related to financial products and servi
 ---
 ### 🛠️ Tools Used
 
-### 🔹 📊 Microsoft Excel: Data cleaning, Data inspection, Handling missing values, Data validation
+**📊 Microsoft Excel**: Data cleaning, Data inspection, Handling missing values, Data validation
 	
-### 🔹 📊 Microsoft Power BI: Dashboard creation, Data visualization, KPI development
+**📊 Microsoft Power BI**: Dashboard creation, Data visualization, KPI development
 
-### 🔹 📽️ Microsoft PowerPoint: Dashboard wireframing
+**📽️ Microsoft PowerPoint**: Dashboard wireframing
 
 ---
 ## ⚙️ Methodology
