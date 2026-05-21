@@ -5,22 +5,22 @@ A data analysis project focused on exploring consumer complaint trends, customer
 ---
 # 🏦 Consumer Complaints Analysis
 ---
-## Table of Contents
+## 📑 Table of Contents
 ---
-### 1. [Introduction](#introduction)
-### 2. [Project Description](#project-description)
-### 3. [Project Aim](#project-aim)
-### 4. [About the Dataset](#about-the-dataset)
-### 5. [Tools Used](tool-used)
-### 6. [Methodology](methodology)
-### 7. [Importing the Dataset](importing-the-dataset)
-### 8. [Data Cleaning And Transformation](data-cleaning-and-transformation)
-### 9. [Data Visualization](data-visualization)
-### 9. [Data Analysis](data-analysis)
-### 10. [Key Insights](key-insights)
-### 11. [Recommendations](recommendation)
-### 12. [Conclusion](conclusion)
-### 13. [Contact Information](contact-information)
+### 1. [📌 Introduction](#introduction)
+### 2. [📝 Project Description](#project-description)
+### 3. [🎯 Project Aim](#project-aim)
+### 4. [🗂️ About the Dataset](#about-the-dataset)
+### 5. [🛠️ Tools Used](tool-used)
+### 6. [⚙️ Methodology](methodology)
+### 7. [📥 Importing the Dataset](importing-the-dataset)
+### 8. [🧹 Data Cleaning And Transformation](data-cleaning-and-transformation)
+### 9. [📈 Data Visualization](data-visualization)
+### 9. [📊 Data Analysis](data-analysis)
+### 10. [💡 Key Insights](key-insights)
+### 11. [✅ Recommendations](recommendation)
+### 12. [📌 Conclusion](conclusion)
+### 13. [📬 Contact Information](contact-information)
 
 ---
 ## Introduction
