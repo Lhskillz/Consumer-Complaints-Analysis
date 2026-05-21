@@ -105,7 +105,6 @@ PowerPoint was later used to create dashboard wireframes before building the fin
 
 Several cleaning and transformation processes were performed to prepare the dataset for analysis.
 
----
 
 ### 🔹 Step 1: Handling Missing Values
 
@@ -116,16 +115,12 @@ Missing values were identified and replaced to improve data completeness and con
 - **Company Public Response** → Replaced missing values with `"Not Specified"`
 - **Timely Response** → Replaced missing values with `"Not Specified"`
 
----
 
 ### 🔹 Step 2: Standardizing Column Names
 
-Column names were cleaned and standardized to improve readability and consistency.
+- Column names were cleaned and standardized to improve readability and consistency. 
+- Removed special characters from column names: renamed Timely Response? → Timely Response
 
-- Removed special characters from column names  
-- Renamed **Timely Response?** → **Timely Response**
-
----
 
 ### 🔹 Step 3: Data Type Validation
 
@@ -134,15 +129,11 @@ The dataset structure and data types were validated to ensure accurate analysis.
 - Verified date columns
 - Confirmed categorical columns as text fields
 
----
 
 ### 🔹 Step 4: Duplicate Validation
 
-Duplicate checks were performed to maintain data integrity.
+-	Performed duplicate checks, but no duplicate records were found
 
-- No duplicate records were found in the dataset
-
----
 
 ### 🔹 Step 5: Dataset Structuring
 
@@ -153,29 +144,6 @@ The dataset was reorganized and formatted for better usability and analysis.
 - Retained all relevant columns
 ### 🧹 Data Cleaning And Transformation
 Several cleaning and transformation processes were performed to prepare the dataset for analysis.
-
-**Cleaning Steps Performed**
-
-**1. Handling Missing Values**
--	Sub-product → Replaced missing values with "Unknown"
--	Sub-issue → Replaced missing values with "Not Specified"
--	Company Public Response → Replaced with "Not Specified."
--	Timely Response → Replaced with "Not Specified"
-
-**2. Standardizing Column Names**
--	Removed special characters from column names: renamed Timely Response? → Timely Response
-
-**3. Data Type Validation**
--	Verified date columns
--	Confirmed categorical columns as text fields
-
-**4. Duplicate Validation**
--	Performed duplicate checks, but no duplicate records were found
-
-**5. Dataset Structuring**
--	Improved readability
--	Standardized naming conventions
--	Retained all relevant columns
 
 ---
 ## 📈 Data Visualization
