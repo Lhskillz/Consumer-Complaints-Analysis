@@ -83,14 +83,15 @@ The dataset contains consumer complaints related to financial products and servi
 -	Which states record the highest complaints?
 -	How have complaints changed over time?
 -	How effective are companies in providing timely responses?
+  
 ---
 ### 🛠️ Tools Used
 
-**1. Microsoft Excel**: Data cleaning, Data inspection, Handling missing values, Data validation
+### 🔹 📊 Microsoft Excel: Data cleaning, Data inspection, Handling missing values, Data validation
 	
-**2. Microsoft Power BI**: Dashboard creation, Data visualization, KPI development
+### 🔹 📊 Microsoft Power BI: Dashboard creation, Data visualization, KPI development
 
-**3. Microsoft PowerPoint**: Dashboard wireframing
+### 🔹 📽️ Microsoft PowerPoint: Dashboard wireframing
 
 ---
 ## ⚙️ Methodology
