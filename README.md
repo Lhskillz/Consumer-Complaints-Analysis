@@ -24,11 +24,13 @@ A data analysis project focused on exploring consumer complaint trends, customer
 
 ---
 ## 📌 Introduction
+---
 Customer complaints are valuable indicators of customer satisfaction, service quality, and operational efficiency within an organization. In the finance industry, unresolved complaints can negatively affect customer trust, increase churn, and damage brand reputation.
 This project focuses on analyzing consumer complaint data to identify major complaint trends, common customer issues, company response performance, and areas requiring operational improvement. The analysis helps stakeholders make informed business decisions and improve customer experience.
 
 ---
 ### 📝 Project Description
+---
 
 This project covers the complete data analysis workflow, including:
 -	Data collection
@@ -44,6 +46,7 @@ The project was carried out using Microsoft Excel, Power BI, and PowerPoint to a
 
 ---
 ### 🎯 Project Aim
+---
 The aim of this project is to analyze consumer complaint data to:
 -	Identify complaint trends and patterns
 -	Understand customer behavior
@@ -55,6 +58,7 @@ The project also seeks to improve customer experience by identifying recurring i
 
 ---
 ### 🗂️ About the Dataset
+---
 
 **🔹 Dataset Source**
 -	Consumer complaints dataset (Finance Industry dataset)
@@ -86,6 +90,7 @@ The dataset contains consumer complaints related to financial products and servi
   
 ---
 ### 🛠️ Tools Used
+---
 
 **📊 Microsoft Excel**: Data cleaning, Data inspection, Handling missing values, Data validation
 	
@@ -146,6 +151,7 @@ The dataset was reorganized and formatted for better usability and analysis.
 
 ---
 ## 📈 Data Visualization
+---
 
 The Power BI dashboard contains two interactive pages.
 
@@ -171,6 +177,7 @@ The Power BI dashboard contains two interactive pages.
 
 ---
 ### 📊 Data Analysis
+---
 
 The analysis focused on the following metrics and KPIs:
 -	Total customer complaints
@@ -184,7 +191,7 @@ The analysis focused on the following metrics and KPIs:
 
 ---
 ### 💡 Key Insights
-
+---
 
 **🔹 Complaint Volume**: A total of 62.52K customer complaints were recorded in the dataset.
 
