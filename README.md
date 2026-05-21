@@ -204,17 +204,26 @@ approximately 24.81K complaints, followed by Credit Card or Prepaid Card complai
 
 **🔹 Timely Response Performance**: Companies maintained a strong customer service performance with a 93.77% timely response rate, 
 showing that most complaints were resolved within the expected timeframe. 
+
 <img width="254" height="164" alt="dashbod timely response rate" src="https://github.com/user-attachments/assets/c4f15b13-f6c3-495d-9c98-9d7f7d30be31" />
 
 
 **🔹 Complaint Trends**: Customer complaints increased steadily from 2017 and reached their peak around 2022 before 
 declining slightly in 2023. 
 
+<img width="1328" height="747" alt="dashbod trend complaints by product" src="https://github.com/user-attachments/assets/a2b5ceef-9049-48ff-b349-d14e1b8e725e" />
+
+
 **🔹 Common Customer Issues**: The most reported issue by customers was managing an Account, followed by Incorrect Information 
 on Reports and Problems with Purchases.
 
+<img width="266" height="665" alt="dashbod most common issues" src="https://github.com/user-attachments/assets/8cc03218-c4e7-4e60-b5de-4e9302a35954" />
+
+
 **🔹 Geographic Distribution**: Most complaints were submitted through the web channel, indicating that customers prefer digital 
 communication channels over phone calls or emails. 
+
+
 
 **🔹 Geographic Distribution**: California recorded the highest number of complaints, followed by Florida, Texas, and New York.
 
